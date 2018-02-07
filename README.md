@@ -1,7 +1,5 @@
-# Pressbooks Bugfix #998
-* Contributors: (this should be a list of wordpress.org userid's)
-* Donate link: https://github.com/lukaiser
-* Tags: comments, spam
+# Pressbooks Bugfix #998 as Plugin
+* Tags: bugfix
 * Requires at least: 3.0.1
 * Tested up to: 3.9
 * License: GPLv2 or later
