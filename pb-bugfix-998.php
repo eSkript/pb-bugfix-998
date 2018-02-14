@@ -8,13 +8,13 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://github.com/lukaiser
+ * @link              https://github.com/eSkript
  * @since             1.0.0
  * @package           Pb_Bugfix_998
  *
  * @wordpress-plugin
  * Plugin Name:       Pressbooks Bug Fix 998
- * Plugin URI:        https://github.com/lukaiser/pb-bugfix-998
+ * Plugin URI:        https://github.com/eSkript/pb-bugfix-998
  * Description:       This plugin fixes bug #998 of Pressbooks for older Pressbooks versions https://github.com/pressbooks/pressbooks/pull/998
  * Version:           1.0.0
  * Author:            Lukas Kaiser
